@@ -1,0 +1,14 @@
+[
+    {
+        "email": "admin@localhost.local",
+        "password": "81dc9bdb52d04dc20036dbd8313ed055",
+        "nombre": "Admin",
+        "apellidos": ""
+    },
+    {
+        "email": "user1@localhost.local",
+        "password": "81dc9bdb52d04dc20036dbd8313ed055",
+        "nombre": "User",
+        "apellidos": "1"
+    }
+]
